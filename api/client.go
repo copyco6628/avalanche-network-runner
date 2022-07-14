@@ -1,15 +1,15 @@
 package api
 
 import (
-	"github.com/ava-labs/avalanchego/api/admin"
-	"github.com/ava-labs/avalanchego/api/health"
-	"github.com/ava-labs/avalanchego/api/info"
-	"github.com/ava-labs/avalanchego/api/ipcs"
-	"github.com/ava-labs/avalanchego/api/keystore"
-	"github.com/ava-labs/avalanchego/indexer"
-	"github.com/ava-labs/avalanchego/vms/avm"
-	"github.com/ava-labs/avalanchego/vms/platformvm"
 	"github.com/ava-labs/coreth/plugin/evm"
+	"github.com/copyco6628/avalanchego/api/admin"
+	"github.com/copyco6628/avalanchego/api/health"
+	"github.com/copyco6628/avalanchego/api/info"
+	"github.com/copyco6628/avalanchego/api/ipcs"
+	"github.com/copyco6628/avalanchego/api/keystore"
+	"github.com/copyco6628/avalanchego/indexer"
+	"github.com/copyco6628/avalanchego/vms/avm"
+	"github.com/copyco6628/avalanchego/vms/platformvm"
 )
 
 // Issues API calls to a node

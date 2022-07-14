@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/ava-labs/avalanche-network-runner/network/node/status"
-	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/copyco6628/avalanchego/utils/logging"
 	"github.com/shirou/gopsutil/process"
 )
 

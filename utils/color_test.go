@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/copyco6628/avalanchego/utils/logging"
 )
 
 // TestColorAssignment tests that each color assignment is different and that it "wraps"

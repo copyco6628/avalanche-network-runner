@@ -8,7 +8,7 @@ import (
 
 	common "github.com/ethereum/go-ethereum/common"
 
-	ids "github.com/ava-labs/avalanchego/ids"
+	ids "github.com/copyco6628/avalanchego/ids"
 
 	interfaces "github.com/ava-labs/coreth/interfaces"
 

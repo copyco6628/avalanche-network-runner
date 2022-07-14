@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/staking"
+	"github.com/copyco6628/avalanchego/ids"
+	"github.com/copyco6628/avalanchego/staking"
 )
 
 const (

@@ -8,10 +8,10 @@ import (
 
 	"github.com/ava-labs/avalanche-network-runner/api"
 	"github.com/ava-labs/avalanche-network-runner/network/node/status"
-	"github.com/ava-labs/avalanchego/config"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/network/peer"
-	"github.com/ava-labs/avalanchego/snow/networking/router"
+	"github.com/copyco6628/avalanchego/config"
+	"github.com/copyco6628/avalanchego/ids"
+	"github.com/copyco6628/avalanchego/network/peer"
+	"github.com/copyco6628/avalanchego/snow/networking/router"
 )
 
 // Node represents an AvalancheGo node

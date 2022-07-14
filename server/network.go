@@ -16,11 +16,11 @@ import (
 	"github.com/ava-labs/avalanche-network-runner/network"
 	"github.com/ava-labs/avalanche-network-runner/pkg/color"
 	"github.com/ava-labs/avalanche-network-runner/rpcpb"
-	"github.com/ava-labs/avalanchego/config"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/network/peer"
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/copyco6628/avalanchego/config"
+	"github.com/copyco6628/avalanchego/ids"
+	"github.com/copyco6628/avalanchego/network/peer"
+	"github.com/copyco6628/avalanchego/utils/constants"
+	"github.com/copyco6628/avalanchego/utils/logging"
 	"go.uber.org/zap"
 )
 

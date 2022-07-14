@@ -7,15 +7,15 @@ import (
 	"context"
 	"time"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/vms/avm"
-	"github.com/ava-labs/avalanchego/vms/platformvm"
-	"github.com/ava-labs/avalanchego/vms/platformvm/txs"
-	"github.com/ava-labs/avalanchego/vms/secp256k1fx"
-	"github.com/ava-labs/avalanchego/wallet/chain/p"
-	"github.com/ava-labs/avalanchego/wallet/chain/x"
-	"github.com/ava-labs/avalanchego/wallet/subnet/primary"
+	"github.com/copyco6628/avalanchego/ids"
+	"github.com/copyco6628/avalanchego/utils/constants"
+	"github.com/copyco6628/avalanchego/vms/avm"
+	"github.com/copyco6628/avalanchego/vms/platformvm"
+	"github.com/copyco6628/avalanchego/vms/platformvm/txs"
+	"github.com/copyco6628/avalanchego/vms/secp256k1fx"
+	"github.com/copyco6628/avalanchego/wallet/chain/p"
+	"github.com/copyco6628/avalanchego/wallet/chain/x"
+	"github.com/copyco6628/avalanchego/wallet/subnet/primary"
 )
 
 const defaultTimeout = time.Minute

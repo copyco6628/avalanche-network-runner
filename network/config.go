@@ -9,11 +9,11 @@ import (
 
 	"github.com/ava-labs/avalanche-network-runner/network/node"
 	"github.com/ava-labs/avalanche-network-runner/utils"
-	"github.com/ava-labs/avalanchego/genesis"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/utils/formatting/address"
-	"github.com/ava-labs/avalanchego/utils/units"
+	"github.com/copyco6628/avalanchego/genesis"
+	"github.com/copyco6628/avalanchego/ids"
+	"github.com/copyco6628/avalanchego/utils/constants"
+	"github.com/copyco6628/avalanchego/utils/formatting/address"
+	"github.com/copyco6628/avalanchego/utils/units"
 )
 
 var cChainConfig map[string]interface{}

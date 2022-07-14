@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/copyco6628/avalanchego/utils/logging"
 )
 
 var supportedColors = []logging.Color{
